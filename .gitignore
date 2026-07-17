@@ -1,0 +1,20 @@
+# Terraform state and lock files
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Terraform plan output
+*.tfplan
+
+# Local environment and credentials
+.terraform.tfstate.lock.info
+*.pem
+*.pub
+.env
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
