@@ -18,7 +18,7 @@ This repository contains a Terraform configuration that provisions a simple AWS 
 
 ## Main file
 
-- `aws-vpc-ec2-lb.tf` — Terraform configuration for the AWS infrastructure
+- `aws-vpc-ec2-lb.tf` — Terraform configuration for the AWS infrastructure.
 
 ## Current architecture
 
